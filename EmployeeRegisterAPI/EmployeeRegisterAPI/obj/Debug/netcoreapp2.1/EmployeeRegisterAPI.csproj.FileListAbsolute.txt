@@ -1,0 +1,14 @@
+C:\DATA\WorkingOuts\React-Core\EmployeeRegisterAPI\EmployeeRegisterAPI\bin\Debug\netcoreapp2.1\EmployeeRegisterAPI.deps.json
+C:\DATA\WorkingOuts\React-Core\EmployeeRegisterAPI\EmployeeRegisterAPI\bin\Debug\netcoreapp2.1\EmployeeRegisterAPI.runtimeconfig.json
+C:\DATA\WorkingOuts\React-Core\EmployeeRegisterAPI\EmployeeRegisterAPI\bin\Debug\netcoreapp2.1\EmployeeRegisterAPI.runtimeconfig.dev.json
+C:\DATA\WorkingOuts\React-Core\EmployeeRegisterAPI\EmployeeRegisterAPI\bin\Debug\netcoreapp2.1\EmployeeRegisterAPI.dll
+C:\DATA\WorkingOuts\React-Core\EmployeeRegisterAPI\EmployeeRegisterAPI\obj\Debug\netcoreapp2.1\EmployeeRegisterAPI.csproj.CoreCompileInputs.cache
+C:\DATA\WorkingOuts\React-Core\EmployeeRegisterAPI\EmployeeRegisterAPI\obj\Debug\netcoreapp2.1\EmployeeRegisterAPI.RazorAssemblyInfo.cache
+C:\DATA\WorkingOuts\React-Core\EmployeeRegisterAPI\EmployeeRegisterAPI\obj\Debug\netcoreapp2.1\EmployeeRegisterAPI.RazorAssemblyInfo.cs
+C:\DATA\WorkingOuts\React-Core\EmployeeRegisterAPI\EmployeeRegisterAPI\obj\Debug\netcoreapp2.1\EmployeeRegisterAPI.AssemblyInfoInputs.cache
+C:\DATA\WorkingOuts\React-Core\EmployeeRegisterAPI\EmployeeRegisterAPI\obj\Debug\netcoreapp2.1\EmployeeRegisterAPI.AssemblyInfo.cs
+C:\DATA\WorkingOuts\React-Core\EmployeeRegisterAPI\EmployeeRegisterAPI\obj\Debug\netcoreapp2.1\EmployeeRegisterAPI.RazorTargetAssemblyInfo.cache
+C:\DATA\WorkingOuts\React-Core\EmployeeRegisterAPI\EmployeeRegisterAPI\bin\Debug\netcoreapp2.1\EmployeeRegisterAPI.pdb
+C:\DATA\WorkingOuts\React-Core\EmployeeRegisterAPI\EmployeeRegisterAPI\obj\Debug\netcoreapp2.1\EmployeeRegisterAPI.dll
+C:\DATA\WorkingOuts\React-Core\EmployeeRegisterAPI\EmployeeRegisterAPI\obj\Debug\netcoreapp2.1\EmployeeRegisterAPI.pdb
+C:\DATA\WorkingOuts\React-Core\EmployeeRegisterAPI\EmployeeRegisterAPI\obj\Debug\netcoreapp2.1\EmployeeRegisterAPI.csprojAssemblyReference.cache
